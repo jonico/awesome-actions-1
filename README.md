@@ -447,6 +447,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 
-## License
+## License - my license
 
 [![Creative Commons License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
