@@ -23,7 +23,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Static Analysis](#static-analysis)
   - [Monitoring](#monitoring)
   - [Pull Requests](#pull-requests)
-  - [GitHub Pages](#github-pages)
+  - [GitHub Pages](#github-pages) - should not conflict
   - [Notifications and Messages](#notifications-and-messages)
   - [Deployment](#deployment)
   - [External Services](#external-services)
